@@ -27,8 +27,8 @@ A modern and user-friendly Notes App built using React. This app allows users to
 
 ## 📂 Installation
 
-```bash
-git clone https://github.com/rajpatil2372007-jpg/Syntecxhub_notes-app.git
+```bash https://github.com/rohit-patil7/Syntecxhub_notes-app
+git clone https://github.com/rohit-patil7/Syntecxhub_notes-app.git
 cd Syntecxhub_notes-app
 npm install
 npm run dev
